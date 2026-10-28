@@ -31,7 +31,7 @@ export default function FloatingSidebar() {
 
             {/* Instagram Button */}
             <a
-                href="https://instagram.com/nivdent"
+                href="https://instagram.com/nivdisklinigi"
                 target="_blank"
                 className="w-13 h-13 bg-gradient-to-tr from-[#f09433] via-[#dc2743] to-[#bc1888] text-white rounded-full flex items-center justify-center shadow-2xl hover:scale-110 transition-all pointer-events-auto"
                 title="Instagram"

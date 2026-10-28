@@ -85,7 +85,7 @@ export default function NivGaleriPage() {
                         </p>
                         <div className="flex flex-wrap justify-center gap-4">
                             <a
-                                href="https://www.instagram.com/nivdent/"
+                                href="https://www.instagram.com/nivdisklinigi/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-primary text-background-dark px-10 py-5 rounded-2xl font-black text-lg hover:bg-white hover:scale-105 transition-all shadow-xl flex items-center gap-3"

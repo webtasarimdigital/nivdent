@@ -33,7 +33,7 @@ export default function SchemaMarkup() {
     },
     "sameAs": [
       "https://facebook.com/nivdent",
-      "https://instagram.com/nivdent",
+      "https://instagram.com/nivdisklinigi",
       "https://linkedin.com/company/nivdent"
     ]
   };

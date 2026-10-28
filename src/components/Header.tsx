@@ -85,7 +85,7 @@ export default function Header() {
                         <a className="w-8 h-8 flex items-center justify-center rounded-md border border-white hover:bg-white hover:text-primary transition-all text-[15px]" href="https://facebook.com/nivdent" target="_blank">
                             <i className="fab fa-facebook-f"></i>
                         </a>
-                        <a className="w-8 h-8 flex items-center justify-center rounded-md border border-white hover:bg-white hover:text-primary transition-all text-[15px]" href="https://instagram.com/nivdent" target="_blank">
+                        <a className="w-8 h-8 flex items-center justify-center rounded-md border border-white hover:bg-white hover:text-primary transition-all text-[15px]" href="https://instagram.com/nivdisklinigi" target="_blank">
                             <i className="fab fa-instagram"></i>
                         </a>
                         <a className="w-8 h-8 flex items-center justify-center rounded-md border border-white hover:bg-white hover:text-primary transition-all text-[15px]" href="https://linkedin.com/company/nivdent" target="_blank">
@@ -245,7 +245,7 @@ export default function Header() {
                                 <a className="w-9 h-9 flex items-center justify-center rounded-lg bg-white/10 border border-white/10 hover:bg-primary hover:border-primary hover:text-background-dark text-white/70 transition-all text-sm" href="https://facebook.com/nivdent" target="_blank">
                                     <i className="fab fa-facebook-f"></i>
                                 </a>
-                                <a className="w-9 h-9 flex items-center justify-center rounded-lg bg-white/10 border border-white/10 hover:bg-primary hover:border-primary hover:text-background-dark text-white/70 transition-all text-sm" href="https://instagram.com/nivdent" target="_blank">
+                                <a className="w-9 h-9 flex items-center justify-center rounded-lg bg-white/10 border border-white/10 hover:bg-primary hover:border-primary hover:text-background-dark text-white/70 transition-all text-sm" href="https://instagram.com/nivdisklinigi" target="_blank">
                                     <i className="fab fa-instagram"></i>
                                 </a>
                                 <a className="w-9 h-9 flex items-center justify-center rounded-lg bg-white/10 border border-white/10 hover:bg-primary hover:border-primary hover:text-background-dark text-white/70 transition-all text-sm" href="https://api.whatsapp.com/send/?phone=905302359265&text&type=phone_number&app_absent=0" target="_blank">

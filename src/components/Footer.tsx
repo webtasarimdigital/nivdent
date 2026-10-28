@@ -16,7 +16,7 @@ export default function Footer() {
                         <a href="https://facebook.com/nivdent" target="_blank" className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center hover:bg-primary hover:border-primary hover:text-background-dark transition-all text-sm">
                             <i className="fab fa-facebook-f"></i>
                         </a>
-                        <a href="https://instagram.com/nivdent" target="_blank" className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center hover:bg-primary hover:border-primary hover:text-background-dark transition-all text-sm">
+                        <a href="https://instagram.com/nivdisklinigi" target="_blank" className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center hover:bg-primary hover:border-primary hover:text-background-dark transition-all text-sm">
                             <i className="fab fa-instagram"></i>
                         </a>
                         <a href="https://linkedin.com/company/nivdent" target="_blank" className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center hover:bg-primary hover:border-primary hover:text-background-dark transition-all text-sm">
